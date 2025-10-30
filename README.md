@@ -13,7 +13,7 @@ A **Streamlit frontend** is also developed for real-time user interaction and se
 - **Format:** Tab-separated file (`.tsv`)  
 - **Columns:**  
   - `Review` → Customer review text  
-  - `Liked` → Target label (1 = Positive, 0 = Negative)
+  - `Liked` → Target label (1 = Liked, 0 = Not Liked)
 
 ---
 
